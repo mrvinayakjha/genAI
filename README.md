@@ -3,7 +3,7 @@
 ![download](https://github.com/mrvinayakjha/genAI/assets/100670889/58b4f3aa-74a5-41e0-b298-dda9bc79f806)
 
 
-## Introduction to Generative API Course
+## Introduction to Generative AI Course
 
 Course Objective:
 - Generative AI Use cases
