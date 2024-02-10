@@ -68,7 +68,8 @@ RNN is necessary when we need to maintain the word order in a sentence. This is 
 
 5. Attention All You Need by google : In this Encoder Decoder was there but They were not using RNN, LSTM, GRU. It uses TRANSFORMER as Base Model.
    Research Paper : [attention all you need reserch paper.pdf](https://github.com/mrvinayakjha/genAI/files/14228904/attention.all.you.need.reserch.paper.pdf)
-   [MachineTranslationwithAttention.pdf](https://github.com/mrvinayakjha/genAI/files/14228969/MachineTranslationwithAttention.pdf)
+   [MachineTranslationwithAttention.pdf](https://github.com/mrvinayakjha/genAI/files/14228972/MachineTranslationwithAttention.pdf)
+
 
 
 
