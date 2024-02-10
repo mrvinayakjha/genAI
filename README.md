@@ -1,5 +1,8 @@
 # genAI
 
+![download](https://github.com/mrvinayakjha/genAI/assets/100670889/58b4f3aa-74a5-41e0-b298-dda9bc79f806)
+
+
 ## Introduction to Generative API Course
 
 Course Objective:
@@ -55,14 +58,18 @@ LLMs Models are used for:
 
   ### By using above Architecture we are going to process a Sequence Data(Sequence to Sequence Mapping)
   But there was restriction with sequence to sequence mapping i.e. Fixed Length Of Input and Output
-  read this ressearch for more: 
+  read this research paper for more: [sequence to sequence model neural network research paper.pdf](https://github.com/mrvinayakjha/genAI/files/14228905/sequence.to.sequence.model.neural.network.research.paper.pdf)
 
-4. Encoder & Decoder Segment :
+
+4. Encoder & Decoder Segment : Read Research Paper : [MachineTranslationwithAttention.pdf](https://github.com/mrvinayakjha/genAI/files/14228907/MachineTranslationwithAttention.pdf)
+
    Encoder-Decoder, first proposed by Cho et al. (2014b), basically consists of 2 parts, the encoder and the decoder. Encoder codes the sequence of input sentence into dense vector representa- tion, and then decoder takes in the encoded sen- tence and decode the representation into another
 sequences of words. They are trained to maximize the conditional probability of the output sentence, given the input sentence.
 RNN is necessary when we need to maintain the word order in a sentence. This is not handled by bags of words model or other statistical models. In addition to input, xi and output yˆi, we also have a state vector, ai, which is initialized with vectors of zeros.
 
 5. Attention All You Need by google : In this Encoder Decoder was there but They were not using RNN, LSTM, GRU. It uses TRANSFORMER as Base Model.
+   Research Paper : [attention all you need reserch paper.pdf](https://github.com/mrvinayakjha/genAI/files/14228904/attention.all.you.need.reserch.paper.pdf)
+
 
 
 
