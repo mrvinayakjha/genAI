@@ -61,17 +61,14 @@ LLMs Models are used for:
   read this research paper for more: [sequence to sequence model neural network research paper.pdf](https://github.com/mrvinayakjha/genAI/files/14228905/sequence.to.sequence.model.neural.network.research.paper.pdf)
 
 
-4. Encoder & Decoder Segment : Read Research Paper :
-
+4. Encoder & Decoder Segment :
    Encoder-Decoder, first proposed by Cho et al. (2014b), basically consists of 2 parts, the encoder and the decoder. Encoder codes the sequence of input sentence into dense vector representa- tion, and then decoder takes in the encoded sen- tence and decode the representation into another
 sequences of words. They are trained to maximize the conditional probability of the output sentence, given the input sentence.
 RNN is necessary when we need to maintain the word order in a sentence. This is not handled by bags of words model or other statistical models. In addition to input, xi and output yˆi, we also have a state vector, ai, which is initialized with vectors of zeros.
 
 5. Attention All You Need by google : In this Encoder Decoder was there but They were not using RNN, LSTM, GRU. It uses TRANSFORMER as Base Model.
    Research Paper : [attention all you need reserch paper.pdf](https://github.com/mrvinayakjha/genAI/files/14228904/attention.all.you.need.reserch.paper.pdf)
-   [MachineTranslationwithAttention.pdf](https://github.com/mrvinayakjha/genAI/files/14228907/MachineTranslationwithAttention.pdf)
-
-
+   [MachineTranslationwithAttention.pdf](https://github.com/mrvinayakjha/genAI/files/14228969/MachineTranslationwithAttention.pdf)
 
 
 
